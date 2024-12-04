@@ -19,5 +19,5 @@ Ingrese el monto de prestamo
 Ingresa interes mensual
 * 7
 El pago mensual por el prestamo es :
-*700.0000000505734
+* 700.0000000505734
  */
